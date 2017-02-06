@@ -1,1 +1,1 @@
-FROM docker pull jasonrivers/nagios
+FROM jasonrivers/nagios
